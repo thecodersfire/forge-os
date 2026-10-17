@@ -1,0 +1,5 @@
+# Flatpak IDs installed from Flathub.
+com.vscodium.codium
+org.gnome.Builder
+org.mozilla.firefox
+com.opera.opera-gx
