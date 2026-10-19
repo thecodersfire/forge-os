@@ -46,3 +46,6 @@ flatpak install --system --noninteractive flathub org.thonny.Thonny org.godoteng
 
 # Fifteen additional purpose-specific applications
 flatpak install --system --noninteractive flathub io.dbeaver.DBeaverCommunity org.gnome.gitg com.github.xournalpp.xournalpp org.jabref.jabref org.mozilla.Thunderbird org.gnome.Evolution org.qelectrotech.QElectroTech org.librecad.librecad org.geogebra.GeoGebra org.stellarium.Stellarium com.orama_interactive.Pixelorama org.synfig.SynfigStudio org.gnome.Calendar org.gnome.Papers org.gnome.clocks
+
+# Fifteen further purpose-specific applications
+flatpak install --system --noninteractive flathub org.kde.kdevelop org.kde.kate org.gnome.meld org.kde.kdiff3 org.kde.konsole org.kde.dolphin org.kde.ark org.kde.filelight io.github.flattool.Warehouse org.kde.kcalc org.kde.okular org.kde.kgeography org.kde.marble org.kde.kstars org.kde.kclock

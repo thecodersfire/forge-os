@@ -61,3 +61,25 @@ These applications add tools suited to this setup focus. They are installed from
 15. **GNOME Clocks** (org.gnome.clocks) — time work sessions and events.
 
 Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
+
+## Fifteen further purpose-specific preinstalled applications
+
+This second batch adds another set of apps selected for this setup’s purpose. They are installed from Flathub by the setup scripts.
+
+1. **KDevelop** (org.kde.kdevelop) — edit, navigate, build, and debug software projects.
+2. **Kate** (org.kde.kate) — edit configuration, code, notes, and structured project files.
+3. **Meld** (org.gnome.meld) — compare and merge source files, folders, and Git changes.
+4. **KDiff3** (org.kde.kdiff3) — compare and merge source files and directory trees.
+5. **Konsole** (org.kde.konsole) — run shell commands and inspect development or system tasks.
+6. **Dolphin** (org.kde.dolphin) — organize project assets and inspect folders.
+7. **Ark** (org.kde.ark) — open and create common project archive files.
+8. **Filelight** (org.kde.filelight) — find large folders and reclaim disk space.
+9. **Warehouse** (io.github.flattool.Warehouse) — review installed Flatpaks, manage versions, and clean app data.
+10. **KCalc** (org.kde.kcalc) — run scientific and unit calculations for coursework or technical work.
+11. **Okular** (org.kde.okular) — read, bookmark, and annotate technical drawings, reading lists, and reference PDFs.
+12. **KGeography** (org.kde.kgeography) — practice country, capital, and map recognition.
+13. **Marble** (org.kde.marble) — explore maps and a virtual globe for geographic context.
+14. **KStars** (org.kde.kstars) — plan sky observations and explore astronomy simulations.
+15. **Clock** (org.kde.kclock) — set study, work, and routine timers with alarms and a stopwatch.
+
+Game frontends do not include proprietary game data; add only games or files you are allowed to use.

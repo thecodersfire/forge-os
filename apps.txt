@@ -37,3 +37,20 @@ org.synfig.SynfigStudio
 org.gnome.Calendar
 org.gnome.Papers
 org.gnome.clocks
+
+# Fifteen further preinstalled purpose-specific applications
+org.kde.kdevelop
+org.kde.kate
+org.gnome.meld
+org.kde.kdiff3
+org.kde.konsole
+org.kde.dolphin
+org.kde.ark
+org.kde.filelight
+io.github.flattool.Warehouse
+org.kde.kcalc
+org.kde.okular
+org.kde.kgeography
+org.kde.marble
+org.kde.kstars
+org.kde.kclock
