@@ -40,3 +40,6 @@ apt-get clean
 rm -rf /var/lib/apt/lists/*
 # Additional purpose-specific applications installed into the customized image.
 flatpak install --system --noninteractive flathub org.sqlitebrowser.sqlitebrowser org.wireshark.Wireshark org.keepassxc.KeePassXC
+
+# Ten additional purpose-specific applications
+flatpak install --system --noninteractive flathub org.thonny.Thonny org.godotengine.Godot org.openscad.OpenSCAD org.gnome.Boxes org.gnome.TextEditor org.gnome.Calculator org.gnome.Logs org.gnome.baobab com.github.tchx84.Flatseal org.gnome.Extensions
