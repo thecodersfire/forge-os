@@ -27,3 +27,6 @@ echo "Setup complete. Open Software to browse and update apps."
 mkdir -p "$HOME/.local/bin"
 install -m 0755 "$(dirname "$0")"/features/* "$HOME/.local/bin/"
 echo 'Purpose-specific helper commands are installed in ~/.local/bin.'
+
+# Install the three additional purpose-specific applications selected in apps.txt.
+sudo flatpak install --system --noninteractive flathub org.wireshark.Wireshark org.kicad.KiCad cc.arduino.IDE2

@@ -38,3 +38,5 @@ flatpak install --system --noninteractive flathub \
   com.opera.opera-gx
 apt-get clean
 rm -rf /var/lib/apt/lists/*
+# Additional purpose-specific applications installed into the customized image.
+flatpak install --system --noninteractive flathub org.sqlitebrowser.sqlitebrowser org.wireshark.Wireshark org.keepassxc.KeePassXC

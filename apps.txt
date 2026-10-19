@@ -3,3 +3,8 @@ com.vscodium.codium
 org.gnome.Builder
 org.mozilla.firefox
 com.opera.opera-gx
+
+# Three additional preinstalled purpose-specific applications
+org.sqlitebrowser.sqlitebrowser
+org.wireshark.Wireshark
+org.keepassxc.KeePassXC
