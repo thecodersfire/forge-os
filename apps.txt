@@ -55,3 +55,20 @@ org.kde.marble
 org.kde.kstars
 org.kde.kclock
 org.blender.Blender
+
+# Fifteen further purpose-specific applications
+io.podman_desktop.PodmanDesktop
+org.kde.umbrello
+org.kde.rocs
+org.kde.kst
+org.kde.labplot
+org.qgis.qgis
+org.gnome.Maps
+org.kde.kgeotag
+org.zotero.Zotero
+org.kde.kbibtex
+org.kde.digikam
+org.gnome.Weather
+org.kde.kphotoalbum
+org.libreoffice.LibreOffice
+org.kde.tellico
