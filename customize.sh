@@ -49,3 +49,6 @@ flatpak install --system --noninteractive flathub io.dbeaver.DBeaverCommunity or
 
 # Fifteen further purpose-specific applications
 flatpak install --system --noninteractive flathub org.kde.kdevelop org.kde.kate org.gnome.meld org.kde.kdiff3 org.kde.konsole org.kde.dolphin org.kde.ark org.kde.filelight io.github.flattool.Warehouse org.kde.kcalc org.kde.okular org.kde.kgeography org.kde.marble org.kde.kstars org.kde.kclock
+
+# Include Blender in the customized image.
+flatpak install --system --noninteractive flathub org.blender.Blender

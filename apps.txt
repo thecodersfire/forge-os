@@ -54,3 +54,4 @@ org.kde.kgeography
 org.kde.marble
 org.kde.kstars
 org.kde.kclock
+org.blender.Blender
