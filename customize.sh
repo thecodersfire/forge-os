@@ -43,3 +43,6 @@ flatpak install --system --noninteractive flathub org.sqlitebrowser.sqlitebrowse
 
 # Ten additional purpose-specific applications
 flatpak install --system --noninteractive flathub org.thonny.Thonny org.godotengine.Godot org.openscad.OpenSCAD org.gnome.Boxes org.gnome.TextEditor org.gnome.Calculator org.gnome.Logs org.gnome.baobab com.github.tchx84.Flatseal org.gnome.Extensions
+
+# Fifteen additional purpose-specific applications
+flatpak install --system --noninteractive flathub io.dbeaver.DBeaverCommunity org.gnome.gitg com.github.xournalpp.xournalpp org.jabref.jabref org.mozilla.Thunderbird org.gnome.Evolution org.qelectrotech.QElectroTech org.librecad.librecad org.geogebra.GeoGebra org.stellarium.Stellarium com.orama_interactive.Pixelorama org.synfig.SynfigStudio org.gnome.Calendar org.gnome.Papers org.gnome.clocks
