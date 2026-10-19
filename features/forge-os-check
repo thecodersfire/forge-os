@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+ask(){ local answer; read -r -p "$1 [y/N] " answer; [[ "$answer" =~ ^[Yy]([Ee][Ss])?$ ]]; }
+echo 'Forge-OS readiness checklist'
+ask 'Is the target system and version confirmed?' || true
+ask 'Is important data backed up before changes?' || true
+ask 'Is there a rollback or recovery path?' || true
+echo 'Checklist complete. Answers were not saved or transmitted.'

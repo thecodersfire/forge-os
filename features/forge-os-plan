@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -euo pipefail
+mkdir -p "$HOME/Documents/forge-os-session-plans"
+file="$HOME/Documents/forge-os-session-plans/plan-$(date +%Y%m%d-%H%M%S).md"
+{
+ printf '# Forge-OS session plan\n\n'
+ printf 'Created: %s\n\n' "$(date -Is)"
+ printf 'Purpose: software development, with editors, Git, Python, and native build tools\n\n## Prompts\n'
+ printf '%s\n' '- What system or component is in scope?' '- What change will you make first?' '- What backup, rollback, or compatibility check is needed?'
+ printf '\n## Notes\n'
+} > "$file"
+nano "$file"
+printf 'Saved locally: %s\n' "$file"

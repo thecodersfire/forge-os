@@ -8,3 +8,5 @@ This repository is intended to contain source, wallpaper SVG, scripts, and guide
 4. Leave the repository without a license unless you have chosen which reuse rights to grant.
 
 The README links to all three installation guides. Keep any ISO private for personal testing; see [COPYRIGHTS.md](COPYRIGHTS.md) before considering distribution.
+Include FEATURES.md and the complete features/ directory when copying this project to GitHub.
+

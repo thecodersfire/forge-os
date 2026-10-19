@@ -21,3 +21,7 @@ The installer may retain Ubuntu wording. The installed system's display name cha
 ## Sharing limits
 
 This source repository contains no generated ISO or third-party binaries. Keep generated images for personal testing unless you have completed the package-license and trademark review described in [COPYRIGHTS.md](COPYRIGHTS.md). Use the separate install guides and back up before changing physical disks.
+## Purpose-specific built-in tools
+
+See [FEATURES.md](FEATURES.md) for three local tools included for software development, with editors, Git, Python, and native build tools.
+
