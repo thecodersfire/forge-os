@@ -26,4 +26,4 @@ This source repository contains no generated ISO or third-party binaries. Keep g
 See [FEATURES.md](FEATURES.md) for three local tools included for software development, with editors, Git, Python, and native build tools.
 
 
-The installer includes fifteen additional purpose-specific applications; the complete list is in [FEATURES.md](FEATURES.md).
+The installer includes 43 purpose-specific applications beyond its core selection; the complete list is in [FEATURES.md](FEATURES.md).
